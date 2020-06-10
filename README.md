@@ -4,7 +4,7 @@
 ###### Contact: rodrigo.qmiranda@gmail.com
 
 ### About
-SWAT-HPC allows for distributed parallel calibration of SWAT model using the SWAT-CUP software (https://swat.tamu.edu/software/swat-cup/) in Microsoft® HPC clusters. The Python scripts were developed for the interpreter Python 3.6.9.
+SWAT-HPC allows for distributed parallel calibration of SWAT model using the SWAT-CUP software (https://swat.tamu.edu/software/swat-cup/) in Microsoft® HPC clusters. The Python scripts were developed for the interpreter Python 2.7.15.
 
 ### Package usage
 ```r
