@@ -1,4 +1,4 @@
-# ![](https://github.com/razeayres/parallelswatpy/blob/master/swatpy.ico) SWAT-HPC - a parallel module for the SUFI2
+# SWAT-HPC - a parallel module for the SUFI2
 [![DOI:10.26848/rbgf.v.10.5.p1535-1544](https://zenodo.org/badge/DOI/10.26848/rbgf.v.10.5.p1535-1544.svg)](http://dx.doi.org/10.26848/rbgf.v.10.5.p1535-1544)
 ###### *Rodrigo de Queiroga Miranda, Josiclêda Domiciano Galvíncio*
 ###### Contact: rodrigo.qmiranda@gmail.com
